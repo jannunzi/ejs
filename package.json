@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jannunzi/ejs/issues"
   },
-  "homepage": "https://github.com/jannunzi/ejs#readme"
+  "homepage": "https://github.com/jannunzi/ejs#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
