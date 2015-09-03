@@ -1,5 +1,5 @@
 {
-  "name": "ejs",
+  "name": "ejs-example",
   "version": "1.0.0",
   "description": "Simple EJS example",
   "main": "index.js",
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/jannunzi/ejs#readme",
   "dependencies": {
+    "ejs": "^2.3.3",
     "express": "^4.13.3"
   }
 }
